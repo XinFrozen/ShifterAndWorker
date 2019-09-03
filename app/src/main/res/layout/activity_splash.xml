@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    tools:context="com.shifterandworker.SplashActivity">
+    tools:context="com.shifterandworker.Activities.SplashActivity">
 
 
     <com.flaviofaria.kenburnsview.KenBurnsView
@@ -14,13 +14,13 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:layout_marginStart="0dp"
-        android:layout_marginTop="0dp"
+        android:layout_marginTop="-2dp"
         android:scaleType="centerCrop"
         android:src="@drawable/splash_bg" />
 
     <ImageView
-        android:layout_width="120dp"
-        android:layout_height="120dp"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="152dp"

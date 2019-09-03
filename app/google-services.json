@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "629526642061",
+    "firebase_url": "https://shifterandworker.firebaseio.com",
+    "project_id": "shifterandworker",
+    "storage_bucket": "shifterandworker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629526642061:android:e18305a60a9726cc",
+        "android_client_info": {
+          "package_name": "com.shifterandworker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629526642061-o5ftr5rhrl4hgkc12svs23l7qlhd619t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqKvuqZyZ3uver5kyflg-C6FqjznPbLb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629526642061-o5ftr5rhrl4hgkc12svs23l7qlhd619t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
